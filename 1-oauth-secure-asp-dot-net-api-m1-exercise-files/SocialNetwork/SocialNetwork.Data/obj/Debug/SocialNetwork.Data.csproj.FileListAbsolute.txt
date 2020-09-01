@@ -6,3 +6,12 @@ C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\obj\Debug\SocialNetw
 C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\bin\Debug\Dapper.dll
 C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\bin\Debug\Dapper.pdb
 C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\bin\Debug\Dapper.xml
+E:\source\repos\ASP.NET Web API\Using OAuth to Secure Your ASP.NET API\oauth-secure-asp-dot-net-api\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.dll
+E:\source\repos\ASP.NET Web API\Using OAuth to Secure Your ASP.NET API\oauth-secure-asp-dot-net-api\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.pdb
+E:\source\repos\ASP.NET Web API\Using OAuth to Secure Your ASP.NET API\oauth-secure-asp-dot-net-api\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\bin\Debug\Dapper.pdb
+E:\source\repos\ASP.NET Web API\Using OAuth to Secure Your ASP.NET API\oauth-secure-asp-dot-net-api\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\bin\Debug\Dapper.xml
+E:\source\repos\ASP.NET Web API\Using OAuth to Secure Your ASP.NET API\oauth-secure-asp-dot-net-api\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csprojAssemblyReference.cache
+E:\source\repos\ASP.NET Web API\Using OAuth to Secure Your ASP.NET API\oauth-secure-asp-dot-net-api\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csproj.CoreCompileInputs.cache
+E:\source\repos\ASP.NET Web API\Using OAuth to Secure Your ASP.NET API\oauth-secure-asp-dot-net-api\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csproj.CopyComplete
+E:\source\repos\ASP.NET Web API\Using OAuth to Secure Your ASP.NET API\oauth-secure-asp-dot-net-api\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.dll
+E:\source\repos\ASP.NET Web API\Using OAuth to Secure Your ASP.NET API\oauth-secure-asp-dot-net-api\1-oauth-secure-asp-dot-net-api-m1-exercise-files\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.pdb
